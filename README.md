@@ -14,9 +14,8 @@
 <br>
 - A simple structure to use as a starting point for building a custom WordPress theme, including style and script enqueuing, support for featured images, custom navigation menus, a custom post type (Portfolio), a custom widget area, and additional functionalities.
 - Then I customize after, adding whatever is necessary (depending on the project specs), like CSS Animations, Bootstrap, Font Awesome, React, Vue, CSS/SCSS, etc...
-- Sometimes I also use this _Bootstrap Starter Theme generator for WordPress_: https://them.es/starter-bootstrap/
 - This gives me a boilerplate to start building the customer's look and feel requested in the project.
-
+- Sometimes I also use this _Bootstrap Starter Theme generator for WordPress_: https://them.es/starter-bootstrap/
 
 <br>
 
