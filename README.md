@@ -35,7 +35,7 @@
 
 🔗 <a href="https://github.com/AlexTCarneiro/fed-ew-code/blob/main/custom-admin-url.php">See Code Here</a>
 <br>
-- One PHP file only, 
+- One PHP file only (just save as .php under the Plugins folder and activate in the Admin Area), 
 - Enhances security by allowing users to customize the login URL for the admin panel,
 - Changing the default login path, the plugin adds an extra layer of protection against unauthorized access attempts.
 - Key features include network-wide defaults for multisite installations,
